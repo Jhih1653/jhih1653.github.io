@@ -31,7 +31,7 @@
     text-align: center; /*文字置中*/
 }
 .body_midden{
-    margin-top: 20px;
+    margin-top: 50px;
     justify-content: center;
     align-items: center;
 }
@@ -107,11 +107,12 @@
 .knowledgeframe_left{
     width:55%;
     justify-content: center;
-    align-items: center;
+    
 }
 .knowledgeframeleft_up{
     align-items: start;
     margin-left: 20px;
+    
 }
 .knowledgeframeleft_down{
     align-items: end;
