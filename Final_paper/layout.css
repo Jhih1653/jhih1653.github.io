@@ -4,7 +4,7 @@
     background-color: rgba(146, 145, 145, 0.781);
 }
 .body{
-    background-color: rgba(184, 181, 181, 0.89);
+    
 }
 .left{
     margin-left: 30px;
@@ -31,6 +31,7 @@
     text-align: center; /*文字置中*/
 }
 .body_midden{
+    background-color: rgba(184, 181, 181, 0.89);
     margin-top: 50px;
     justify-content: center;
     align-items: center;
@@ -51,7 +52,7 @@
     text-align: center;
 }
 .bottom{
-    
+    background-color: rgba(146, 145, 145, 0.781);
     display:flex;
     justify-content: center;
     align-items: center;
@@ -91,6 +92,7 @@
     color: inherit;
 }
 .aboutus_frame{
+    background-color: rgba(184, 181, 181, 0.89);
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
     margin-top: 50px;
@@ -109,6 +111,7 @@
     margin-right: 30px;
 }
 .knowledgeframe{
+    background-color: rgba(184, 181, 181, 0.89);
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
     margin-top: 50px;
@@ -159,6 +162,7 @@
     margin-left: 10px;
 }
 .websiteframe{
+    background-color: rgba(184, 181, 181, 0.89);
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
     justify-content: center;
