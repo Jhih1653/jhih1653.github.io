@@ -88,3 +88,13 @@
     width:50%;
     align-items: center;
 }
+.knowledgeframe{
+    display:flex; /*讓下一層次的項目水平排列*/
+    align-items: center;
+}
+.knowledgeframe_left{
+
+}
+.knowledgeframe_right{
+    
+}
