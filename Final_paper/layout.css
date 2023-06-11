@@ -101,6 +101,14 @@
     justify-content: center;
     align-items: center;
 }
+.knowledgeframeleft_up{
+    margin-bottom: 200px;
+}
+.knowledgeframeleft_down{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
 .knowledgeframe_right{
     width:45%;
     justify-content: center;
