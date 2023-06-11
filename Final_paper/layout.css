@@ -69,11 +69,11 @@
   }
   
   .carousel-control-prev {
-    right: 30px;
+    right: 50px;
   }
   
   .carousel-control-next {
-    left: 30px;
+    left: 50px;
   }
  a {
     text-decoration: none;
