@@ -112,15 +112,16 @@
     margin-bottom: 40px;
 }
 .KR_down{
-    display:flex; /*讓下一層次的項目水平排列*/
+    display:flex;
+    justify-content: center;
     align-items: center;
     margin-top: 20px;
 }
 .rescue_K{
-    margin-left: 5px;
+    margin-right: 5px;
 }
 .help_K{
-    margin-right: 5px;
+    margin-left: 5px;
 }
 .card_left{
     margin-right: 10px;
