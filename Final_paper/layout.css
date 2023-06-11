@@ -84,10 +84,12 @@
 }
 .aboutus_left{
     width:50%;
+    margin-left: 50px;
     align-items: center;
 }
 .aboutus_right{
     width:50%;
+    margin-left: 100px;
     align-items: center;
 }
 .knowledgeframe{
