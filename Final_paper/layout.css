@@ -144,3 +144,9 @@
     justify-content: center;
     
 }
+.web_left{
+    margin-right: 20px;
+}
+.web_right{
+    margin-left: 20px;
+}
