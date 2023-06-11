@@ -109,11 +109,10 @@
 .KR_up{
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 .KR_down{
     display:flex;
-    justify-content: center;
     align-items: center;
     margin-top: 20px;
 }
