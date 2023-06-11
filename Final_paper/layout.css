@@ -108,6 +108,12 @@
     align-items: center;
     margin-top: 20px;
 }
+.card_left{
+    margin-right: 10px;
+}
+.card_right{
+    margin-left: 10px;
+}
 .websiteframe{
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
