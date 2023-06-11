@@ -96,5 +96,13 @@
 
 }
 .knowledgeframe_right{
-    
+
+}
+.KR_up{
+    display:flex; /*讓下一層次的項目水平排列*/
+    align-items: center;
+}
+.KR_down{
+    display:flex; /*讓下一層次的項目水平排列*/
+    align-items: center;
 }
