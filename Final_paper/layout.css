@@ -93,10 +93,10 @@
     align-items: center;
 }
 .knowledgeframe_left{
-
+    width:40%;
 }
 .knowledgeframe_right{
-
+    width:60%;
 }
 .KR_up{
     display:flex; /*讓下一層次的項目水平排列*/
@@ -109,10 +109,10 @@
     margin-top: 20px;
 }
 .card_left{
-    margin-left: 10px;
+    margin-right: 10px;
 }
 .card_right{
-    margin-right4: 10px;
+    margin-left: 10px;
 }
 .websiteframe{
     display:flex; /*讓下一層次的項目水平排列*/
