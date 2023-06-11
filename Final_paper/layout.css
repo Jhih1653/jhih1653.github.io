@@ -74,11 +74,17 @@
   }
   
   .carousel-control-prev {
-    margin-right: 80px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10px;
   }
   
   .carousel-control-next {
-    margin-left: 80px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px;
   }
  a {
     text-decoration: none;
