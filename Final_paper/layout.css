@@ -9,6 +9,7 @@
     font-weight:bold;
     flex:none; /*固定配置*/
     width:300px;
+    height:150px;
 }
 .right{
     display:flex; /*讓下一層次的項目水平排列*/
@@ -16,7 +17,7 @@
     margin-right: 50px;
     background-color: ;
     flex:auto; /*剩下自動填滿*/
-    
+    height:150px;
 }
 .item{
     background-color: gray;
