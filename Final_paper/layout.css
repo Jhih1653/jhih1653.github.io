@@ -74,11 +74,11 @@
   }
   
   .carousel-control-prev {
-    margin-right: 100px;
+    margin-right: 80px;
   }
   
   .carousel-control-next {
-    margin-left: 100px;
+    margin-left: 80px;
   }
  a {
     text-decoration: none;
@@ -110,12 +110,12 @@
     
 }
 .knowledgeframeleft_up{
-    align-items: start;
+    align-items: flex-start;
     margin-left: 20px;
     
 }
 .knowledgeframeleft_down{
-    align-items: end;
+    align-items: flex-end;
     display:flex;
     justify-content: center;
     
