@@ -112,12 +112,14 @@
 .knowledgeframeleft_up{
     align-items: flex-start;
     margin-left: 20px;
+    margin-bottom: 400px;
     
 }
 .knowledgeframeleft_down{
     align-items: flex-end;
     display:flex;
     justify-content: center;
+    margin-top: 200px;
     
 }
 .knowledgeframe_right{
