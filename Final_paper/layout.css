@@ -3,7 +3,7 @@
     align-items: center;
 }
 .left{
-    margin-left: 20px;
+    margin-left: 30px;
     background-color: ;
     font-size:50px;
     font-weight:bold;
@@ -13,6 +13,7 @@
 .right{
     display:flex; /*讓下一層次的項目水平排列*/
     justify-content: flex-end; /*水平對齊*/
+    margin-right: 50px;
     background-color: ;
     flex:auto; /*剩下自動填滿*/
     
