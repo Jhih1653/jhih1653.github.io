@@ -102,9 +102,11 @@
     align-items: center;
 }
 .knowledgeframeleft_up{
+    align-items: start;
     margin-bottom: 200px;
 }
 .knowledgeframeleft_down{
+    align-items: end;
     display:flex;
     justify-content: center;
     align-items: center;
