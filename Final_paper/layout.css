@@ -103,13 +103,13 @@
 }
 .knowledgeframeleft_up{
     align-items: start;
-    margin-bottom: 200px;
+    margin-bottom: 500px;
 }
 .knowledgeframeleft_down{
     align-items: end;
     display:flex;
     justify-content: center;
-    align-items: center;
+    
 }
 .knowledgeframe_right{
     width:45%;
