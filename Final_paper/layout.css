@@ -105,6 +105,9 @@
     margin-left: 200px;
     align-items: center;
 }
+.aboutbutton{
+    margin-right: 30px;
+}
 .knowledgeframe{
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
