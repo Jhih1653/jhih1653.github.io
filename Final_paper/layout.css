@@ -121,14 +121,14 @@
 .knowledgeframeleft_up{
     align-items: flex-start;
     margin-left: 20px;
-    margin-bottom: 400px;
+    margin-bottom: 430px;
     
 }
 .knowledgeframeleft_down{
     align-items: flex-end;
     display:flex;
     justify-content: center;
-    margin-top: 200px;
+    margin-top: 220px;
     
 }
 .knowledgeframe_right{
@@ -147,10 +147,10 @@
     margin-top: 20px;
 }
 .rescue_K{
-    margin-right: 30px;
+    margin-right: 40px;
 }
 .help_K{
-    margin-left: 30px;
+    margin-left: 40px;
 }
 .card_left{
     margin-right: 10px;
