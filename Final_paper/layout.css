@@ -149,7 +149,7 @@
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
     justify-content: center;
-    
+    margin-top: 50px;
 }
 .web_left{
     margin-right: 30px;
