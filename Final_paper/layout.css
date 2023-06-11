@@ -87,6 +87,7 @@
 .aboutus_frame{
     display:flex; /*讓下一層次的項目水平排列*/
     align-items: center;
+    margin-top: 50px;
 }
 .aboutus_left{
     width:50%;
